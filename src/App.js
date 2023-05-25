@@ -2,8 +2,7 @@ import './App.css';
 import Header from './Componentes/Header';
 import NavBar from './Componentes/NavBar';
 import Footer from './Componentes/Footer';
-import ItemListContainer from './Componentes/MainProductos.jsx/ItemListContainer';
-import Novedades from './Componentes/Novedades';
+import ItemListContainer from './Componentes/ItemListContainer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
@@ -16,7 +15,7 @@ function App() {
          <NavBar/>
          <Routes>
            <Route path='/' element={<ItemListContainer />}/>
-           <Route path='/novedades' element={<Novedades />}/>    
+              
          </Routes>
          <Footer/>
          </BrowserRouter>
