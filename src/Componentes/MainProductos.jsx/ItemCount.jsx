@@ -3,6 +3,7 @@ import { useEffect, useState } from "react"
 const ItemCount = ([stock]) => {
      const [items, setItems] = useState (0); 
      const [itemStock, setItemStock] = useState (stock);
+     
      const agregarAlCarrito = () => {
         if (items < itemStock){
             setItems(items + 1);
@@ -17,12 +18,12 @@ const ItemCount = ([stock]) => {
        
      }
      
-    const onAdd = () => {
+     const onAdd = () => {
         if (items <= itemStock){
             setItemStock(itemStock - items);
             setItems(0);
         }
-    }
+     }
      
     useEffect(() =>{
         setItemStock (stock);
@@ -33,7 +34,7 @@ const ItemCount = ([stock]) => {
         <div className="container-btn">
             <div className="row">
                 <div className="col">
-                    <div className="btn-group" role="group" aria-label="">
+                    <div className="btn-group" role="group" aria-label="Basic example">
                        <button type="button" className="btn btn-ligth" onClick={desAgregarAlCarrito}>-</button>
                        <button type="button" className="btn btn-ligth">{items}</button>
                        <button type="button" className="btn btn-ligth"  onClick={agregarAlCarrito}>+</button>
@@ -42,7 +43,7 @@ const ItemCount = ([stock]) => {
             </div>
             <div className="row">
                 <div className="col">
-                    <button className = "btn btn-ligth" type="button" onClick={onAdd}>Agregar</button>
+                    <button type="button" className = "btn btn-ligth" onClick={onAdd}>Agregar</button>
                 </div>
             </div>
         </div>
