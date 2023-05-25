@@ -1,4 +1,4 @@
-import CartWidget from "./CartWidget";
+import CardImg from "./CardImg";
 
 const NavBar = () => {
     return (
@@ -26,7 +26,7 @@ const NavBar = () => {
           <input className="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar"/>
           <button className="btn btn-outline-success" type="submit">Buscar</button>
           </form>
-          <div><CartWidget/></div>
+          
           </div>
           </div>
           
@@ -34,7 +34,9 @@ const NavBar = () => {
           </div>
           </div>
           </div>
-
+          
+          
+          <div><CardImg /></div>
         </div>
     )
 }

@@ -1,9 +1,8 @@
 import './App.css';
 import Header from './Componentes/Header';
 import NavBar from './Componentes/NavBar';
-import Main from './Componentes/Main';
 import Footer from './Componentes/Footer';
-import ItemListContainer from './Componentes/ItemListContainer';
+import ItemListContainer from './Componentes/MainProductos.jsx/ItemListContainer';
 
 
 
@@ -13,8 +12,7 @@ function App() {
          <Header/>
          <h1>💚Mundo Manga💚</h1>
          <NavBar/>
-         <ItemListContainer greeting={"No hay productos en tu carrito"}/>
-         <Main/>
+         <ItemListContainer />
          <Footer/>
     </div>
   );

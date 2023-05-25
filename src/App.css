@@ -8,9 +8,10 @@ body{
   background-color: #E4FCCA;
 }
 
-.header {
+.header{
   padding: 20px;
-  background-color: black;
+  background-image: url("Images/fondo2-min.jpg") ;
+  background-size: cover;
 }
 
 .main{
@@ -20,8 +21,8 @@ body{
 
 .footer{
   padding: 20px;
-  color: palegreen;
-  background-color: black;
+  background-image: url("Images/fondo2-min.jpg") ;
+  background-size: cover;
 }
 
 h1{
@@ -54,3 +55,8 @@ h1{
 .navbar-toggler-icon{
   background-color:  palegreen;
 }
+
+.cardPago{
+  margin-top: 150px;
+}
+
