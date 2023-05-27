@@ -3,7 +3,7 @@
             "nombre": "Wotakoi, Tomo 1",
             "precio": 1800,
             "id": 1,
-            "img": "./images/wotakoi.jpg",
+            "img": "../images/wotakoi.jpg",
             "category": "Comedia",
             "stock": 10
         },
@@ -11,7 +11,7 @@
             "nombre": "Wotakoi, Tomo 2",
             "precio": 1800,
             "id": 2,
-            "img": "./images/wotakoi2.jpg",
+            "img": "../images/wotakoi2.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -19,7 +19,7 @@
             "nombre": "Wotakoi, Tomo 3",
             "precio": 1800,
             "id": 3,
-            "img": "./images/wotakoi3.jpg",
+            "img": "../images/wotakoi3.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -27,7 +27,7 @@
             "nombre": "Wotakoi, Tomo 4",
             "precio": 1800,
             "id": 4,
-            "img": "./images/wotakoi4.jpg",
+            "img": "../images/wotakoi4.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -35,7 +35,7 @@
             "nombre": "Wotakoi, Tomo 5",
             "precio": 1800,
             "id": 5,
-            "img": "./images/wotakoi5.jpg",
+            "img": "../images/wotakoi5.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -43,7 +43,7 @@
             "nombre": "Wotakoi, Tomo 6",
             "precio": 1800,
             "id": 6,
-            "img": "./images/wotakoi6.jpg",
+            "img": "../images/wotakoi6.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -51,7 +51,7 @@
             "nombre": "Wotakoi, Tomo 7",
             "precio": 1800,
             "id": 7,
-            "img": "./images/wotakoi7.jpg",
+            "img": "../images/wotakoi7.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -59,7 +59,7 @@
             "nombre": "Wotakoi, Tomo 8",
             "precio": 1800,
             "id": 8,
-            "img": "./images/wotakoi8.jpg",
+            "img": "../images/wotakoi8.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -67,7 +67,7 @@
             "nombre": "Wotakoi, Tomo 9",
             "precio": 1800,
             "id": 9,
-            "img": "./images/wotakoi9.jpg",
+            "img": "../images/wotakoi9.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -75,7 +75,7 @@
             "nombre": "Wotakoi, Tomo 10",
             "precio": 1800,
             "id": 10,
-            "img": "./images/wotakoi10.jpg",
+            "img": "../images/wotakoi10.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -83,7 +83,7 @@
             "nombre": "Wotakoi, Tomo 11",
             "precio": 1800,
             "id": 11,
-            "img": "./images/wotakoi11.jpg",
+            "img": "../images/wotakoi11.jpg",
             "category": "Comedia",
             "stock": 10
           },
@@ -91,7 +91,7 @@
             "nombre": "Tokyo Revengers, Tomo 1",
             "precio": 2000,
             "id": 12,
-            "img": "./images/tokyo1.jpg",
+            "img": "../images/tokyo1.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -99,7 +99,7 @@
             "nombre": "Tokyo Revengers, Tomo 2",
             "precio": 2000,
             "id": 13,
-            "img": "./images/tokyo2.jpg",
+            "img": "../images/tokyo2.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -107,7 +107,7 @@
             "nombre": "Tokyo Revengers, Tomo 3",
             "precio": 2000,
             "id": 14,
-            "img": "./images/tokyo3.jpg",
+            "img": "../images/tokyo3.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -115,7 +115,7 @@
             "nombre": "Tokyo Revengers, Tomo 4",
             "precio": 2000,
             "id": 15,
-            "img": "./images/tokyo4.jpg",
+            "img": "../images/tokyo4.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -123,7 +123,7 @@
             "nombre": "Tokyo Revengers, Tomo 5",
             "precio": 2000,
             "id": 16,
-            "img": "./images/tokyo5.jpg",
+            "img": "../images/tokyo5.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -131,7 +131,7 @@
             "nombre": "Tokyo Revengers, Tomo 6",
             "precio": 2000,
             "id": 17,
-            "img": "./images/tokyo6.jpg",
+            "img": "../images/tokyo6.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -139,7 +139,7 @@
             "nombre": "Tokyo Revengers, Tomo 7",
             "precio": 2000,
             "id": 18,
-            "img": "./images/tokyo7.jpg",
+            "img": "../images/tokyo7.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -147,7 +147,7 @@
             "nombre": "Blue Lock, Tomo 1",
             "precio": 2000,
             "id": 19,
-            "img": "./img/blue.jpg",
+            "img": "../img/blue.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -155,7 +155,7 @@
             "nombre": "Blue Lock, Tomo 2",
             "precio": 2000,
             "id": 20,
-            "img": "./images/blue2.jpg",
+            "img": "../images/blue2.jpg",
             "category": "Accion",
             "stock": 10
           },
@@ -163,7 +163,7 @@
             "nombre": "Blue Lock, Tomo 3",
             "precio": 2000,
             "id": 21,
-            "img": "./images/blue3.jpg",
+            "img": "../images/blue3.jpg",
             "category": "Accion",
             "stock": 10
           }
