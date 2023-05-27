@@ -1,6 +1,7 @@
 const Header = () =>{
     return(
         <div className="header">
+          <h1 className="text-stroke">💚Mundo Manga💚</h1>
            <div className="container-fluid">
              <div className="row justify-content-center">
               <div className="col-md-3 offset-md-">
