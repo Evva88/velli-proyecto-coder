@@ -16,7 +16,7 @@ const ItemDetail = ({ producto }) => {
                 <img src={item.img} alt={item.nombre} className="card-img-top"  />
                 <div className="card-body">
                 <h3>{item.nombre}</h3>
-                <p className="card-text"><span className="text-secondary">{item.nombre}</span><br /><b>${item.precio}</b></p>
+                <p className="card-text"><span className="text-secondary">{item.detalle}</span><br /><b>${item.precio}</b></p>
                 </div>
                 
                 <ItemCount stock={item.stock} />
