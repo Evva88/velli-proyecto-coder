@@ -12,20 +12,21 @@ const ItemDetail = ({ producto }) => {
   return (
     <div className="container">
       <div className="col-md-4 my-3">
-             <div className="card" style={{ width: "25rem" }}>
-                <img src={item.img} alt={item.nombre} className="card-img-top"  />
-                <div className="card-body">
-                <h3>{item.nombre}</h3>
-                <p className="card-text"><span className="text-secondary">{item.detalle}</span><br /><b>${item.precio}</b></p>
-                </div>
-                
-                <ItemCount stock={item.stock} />
+        <div className="card" style={{ width: "25rem" }}>
+          <img src={item.img} alt={item.nombre} className="card-img-top" />
+          <div className="card-body">
+            <h3>{item.nombre}</h3>
+            <p className="card-text">
+              <span className="text-secondary">{item.detalle}</span>
+              <br />
+              <b>${item.precio}</b>
+            </p>
           </div>
-            
-          </div>
+
+          <ItemCount stock={item.stock} />
         </div>
-      
-    
+      </div>
+    </div>
   );
 };
 

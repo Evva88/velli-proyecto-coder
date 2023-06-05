@@ -1,191 +1,281 @@
 [
-        {
-            "nombre": "Wotakoi, Tomo 1",
-            "precio": 1800,
-            "id": 1,
-            "img": "../images/wotakoi.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-        },
-        {
-            "nombre": "Wotakoi, Tomo 2",
-            "precio": 1800,
-            "id": 2,
-            "img": "../images/wotakoi2.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 3",
-            "precio": 1800,
-            "id": 3,
-            "img": "../images/wotakoi3.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 4",
-            "precio": 1800,
-            "id": 4,
-            "img": "../images/wotakoi4.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 5",
-            "precio": 1800,
-            "id": 5,
-            "img": "../images/wotakoi5.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 6",
-            "precio": 1800,
-            "id": 6,
-            "img": "../images/wotakoi6.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 7",
-            "precio": 1800,
-            "id": 7,
-            "img": "../images/wotakoi7.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 8",
-            "precio": 1800,
-            "id": 8,
-            "img": "../images/wotakoi8.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 9",
-            "precio": 1800,
-            "id": 9,
-            "img": "../images/wotakoi9.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 10",
-            "precio": 1800,
-            "id": 10,
-            "img": "../images/wotakoi10.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Wotakoi, Tomo 11",
-            "precio": 1800,
-            "id": 11,
-            "img": "../images/wotakoi11.jpg",
-            "category": "Comedia",
-            "stock": 10,
-            "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 1",
-            "precio": 2000,
-            "id": 12,
-            "img": "../images/tokyo1.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 2",
-            "precio": 2000,
-            "id": 13,
-            "img": "../images/tokyo2.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 3",
-            "precio": 2000,
-            "id": 14,
-            "img": "../images/tokyo3.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 4",
-            "precio": 2000,
-            "id": 15,
-            "img": "../images/tokyo4.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 5",
-            "precio": 2000,
-            "id": 16,
-            "img": "../images/tokyo5.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 6",
-            "precio": 2000,
-            "id": 17,
-            "img": "../images/tokyo6.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Tokyo Revengers, Tomo 7",
-            "precio": 2000,
-            "id": 18,
-            "img": "../images/tokyo7.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
-          },
-          {
-            "nombre": "Blue Lock, Tomo 1",
-            "precio": 2000,
-            "id": 19,
-            "img": "../img/blue.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
-          },
-          {
-            "nombre": "Blue Lock, Tomo 2",
-            "precio": 2000,
-            "id": 20,
-            "img": "../images/blue2.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
-          },
-          {
-            "nombre": "Blue Lock, Tomo 3",
-            "precio": 2000,
-            "id": 21,
-            "img": "../images/blue3.jpg",
-            "category": "Accion",
-            "stock": 10,
-            "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
-          }
+  {
+    "nombre": "Wotakoi, Tomo 1",
+    "precio": 1800,
+    "id": 1,
+    "img": "../images/wotakoi.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 2",
+    "precio": 1800,
+    "id": 2,
+    "img": "../images/wotakoi2.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 3",
+    "precio": 1800,
+    "id": 3,
+    "img": "../images/wotakoi3.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 4",
+    "precio": 1800,
+    "id": 4,
+    "img": "../images/wotakoi4.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 5",
+    "precio": 1800,
+    "id": 5,
+    "img": "../images/wotakoi5.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 6",
+    "precio": 1800,
+    "id": 6,
+    "img": "../images/wotakoi6.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 7",
+    "precio": 1800,
+    "id": 7,
+    "img": "../images/wotakoi7.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 8",
+    "precio": 1800,
+    "id": 8,
+    "img": "../images/wotakoi8.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 9",
+    "precio": 1800,
+    "id": 9,
+    "img": "../images/wotakoi9.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 10",
+    "precio": 1800,
+    "id": 10,
+    "img": "../images/wotakoi10.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Wotakoi, Tomo 11",
+    "precio": 1800,
+    "id": 11,
+    "img": "../images/wotakoi11.jpg",
+    "category": "Comedia",
+    "stock": 10,
+    "detalle": "Narumi es una joven oficinista que está iniciando su trabajo en una nueva compañía. Es una apasionada fujoshi que intenta mantener oculta su afición. Por otra parte, Hirotaka es un callado y capacitado oficinista adicto a los videojuegos; sin embargo, al ser puntual y productivo en su trabajo, no intenta mantener en secreto su afición.Ambos se conocen desde niños y se han reencontrado en la misma oficina, en consecuencia los dos comenzarán una relación que al principio aparenta no ser romántica, pero que irá desarrollándose y hará que se vayan conociendo mejor el uno al otro."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 1",
+    "precio": 2000,
+    "id": 12,
+    "img": "../images/tokyo1.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 2",
+    "precio": 2000,
+    "id": 13,
+    "img": "../images/tokyo2.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 3",
+    "precio": 2000,
+    "id": 14,
+    "img": "../images/tokyo3.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 4",
+    "precio": 2000,
+    "id": 15,
+    "img": "../images/tokyo4.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 5",
+    "precio": 2000,
+    "id": 16,
+    "img": "../images/tokyo5.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 6",
+    "precio": 2000,
+    "id": 17,
+    "img": "../images/tokyo6.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 7",
+    "precio": 2000,
+    "id": 22,
+    "img": "../images/tokyo7.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 8",
+    "precio": 2000,
+    "id": 23,
+    "img": "../images/tokyo8.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 9",
+    "precio": 2000,
+    "id": 24,
+    "img": "../images/tokyo9.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 10",
+    "precio": 2000,
+    "id": 25,
+    "img": "../images/tokyo10.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 11",
+    "precio": 2000,
+    "id": 26,
+    "img": "../images/tokyo11.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 12",
+    "precio": 2000,
+    "id": 25,
+    "img": "../images/tokyo12.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 13",
+    "precio": 2000,
+    "id": 26,
+    "img": "../images/tokyo13.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 14",
+    "precio": 2000,
+    "id": 27,
+    "img": "../images/tokyo14.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 15",
+    "precio": 2000,
+    "id": 28,
+    "img": "../images/tokyo15.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 16",
+    "precio": 2000,
+    "id": 29,
+    "img": "../images/tokyo16.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Tokyo Revengers, Tomo 17",
+    "precio": 2000,
+    "id": 30,
+    "img": "../images/tokyo17.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "Takemichi Hanagaki, un joven de 26 años sin grandes objetivos en su vida, descubre un día que su exnovia de la adolescencia, Hinata Tachibana, así como su hermano menor Naoto, son asesinados por la Tokyo Manji. Cuando Takemichi es empujado hacia las vías de un tren, viaja en el tiempo hasta hace exactamente 12 años, en 2005. Takemichi regresa a sus años de secundaria, y después de revelarle a Naoto que Hinata va a morir, Takemichi es transportado repentinamente al presente, creando una paradoja temporal en la que Naoto sobrevive y ahora es un detective. Naoto deduce que Takemichi puede viajar 12 años al pasado cuando se toman de la mano, y usando sus nuevos conocimientos, Takemichi decide cambiar el futuro para salvar la vida de Hinata y sus amigos."
+  },
+  {
+    "nombre": "Blue Lock, Tomo 1",
+    "precio": 2000,
+    "id": 19,
+    "img": "../img/blue.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
+  },
+  {
+    "nombre": "Blue Lock, Tomo 2",
+    "precio": 2000,
+    "id": 20,
+    "img": "../images/blue2.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
+  },
+  {
+    "nombre": "Blue Lock, Tomo 3",
+    "precio": 2000,
+    "id": 21,
+    "img": "../images/blue3.jpg",
+    "category": "Accion",
+    "stock": 10,
+    "detalle": "La trama se sitúa tras la eliminación de la selección de Japón de la Copa Mundial de Fútbol de 2018, lo que impulsa a la federación del país a iniciar un programa de entrenamientos para preparar a un equipo de estudiantes de preparatoria, que participarán en el Mundial de 2022. El protagonista Isagi Yoichi, un delantero, recibe una invitación para unirse a este programa después del intento fallido de su equipo de llegar a las Nacionales, debido a que pasó el balón a su compañero, que falló el tiro, en lugar de marcar él mismo. El coordinador del entrenamiento, Ego Jinpachi, tiene la intención de acabar con la idea del “Japón débil en fútbol” aplicando un nuevo régimen, que consiste en aislar a 300 jóvenes delanteros en una institución parecida a una prisión llamada “Blue Lock”. Allí son sometidos a un riguroso entrenamiento con el objetivo de incrementar su individualismo y crear al mejor delantero del mundo"
+  }
 ]

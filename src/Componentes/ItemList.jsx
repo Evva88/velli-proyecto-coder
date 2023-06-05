@@ -8,7 +8,6 @@ const ItemList = ({ items }) => {
         <div key={item.id} className="col-md-4">
           <Item item={item} />
         </div>
-        
       ))}
     </>
   );

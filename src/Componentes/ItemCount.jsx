@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 
-
 const ItemCount = ({ stock }) => {
   const [items, setItems] = useState(0);
   const [itemStock, setItemStock] = useState(stock);
@@ -33,15 +32,31 @@ const ItemCount = ({ stock }) => {
       <div className="row">
         <div className="col">
           <div className="btn-group" role="group" aria-label="Basic example">
-            <button type="button" className="btn btn-light" onClick={desAgregarAlCarrito}>-</button>
-            <button type="button" className="btn btn-light">{items}</button>
-            <button type="button" className="btn btn-light" onClick={agregarAlCarrito}>+</button>
+            <button
+              type="button"
+              className="btn btn-light"
+              onClick={desAgregarAlCarrito}
+            >
+              -
+            </button>
+            <button type="button" className="btn btn-light">
+              {items}
+            </button>
+            <button
+              type="button"
+              className="btn btn-light"
+              onClick={agregarAlCarrito}
+            >
+              +
+            </button>
           </div>
         </div>
       </div>
       <div className="row">
         <div className="col">
-          <button type="button" className="btn btn-light" onClick={onAdd}>Agregar</button>
+          <button type="button" className="btn btn-light" onClick={onAdd}>
+            Agregar
+          </button>
         </div>
       </div>
     </div>
@@ -49,4 +64,3 @@ const ItemCount = ({ stock }) => {
 };
 
 export default ItemCount;
-
