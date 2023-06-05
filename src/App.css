@@ -1,70 +1,107 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-body{
-  background-color: #E4FCCA;
+body {
+  background-color: #e4fcca;
 }
 
-.header{
+.header {
   padding: 20px;
-  background-image: url("./Componentes/fondo2-min.jpg") ;
+  background-image: url("./Componentes/fondo2-min.jpg");
   background-size: cover;
 }
 
-.logo2{
+.logo2 {
   margin-right: 10px;
-  
 }
-.footer{
+.footer {
   padding: 20px;
-  background-image: url("./Componentes/fondo2-min.jpg") ;
+  background-image: url("./Componentes/fondo2-min.jpg");
   background-size: cover;
 }
 
-h1{
+h1 {
   text-align: center;
   color: palegreen;
   -webkit-text-stroke: 1px #000000;
 }
 
-.btn{
+.btn {
   background-color: palegreen;
   color: black;
 }
 
-.nav-link, .navbar-brand{
+.nav-link,
+.navbar-brand {
   color: palegreen;
 }
 
-.card{
+.card {
   padding: 10px;
   margin-top: 100px;
   margin-left: 30px;
-  background-image: radial-gradient(circle at 50% -20.71%, #ffffa1 0, #f5ffa0 6.25%, #e4ffa0 12.5%, #d2ffa1 18.75%, #bdffa3 25%, #a7fda6 31.25%, #8cfaaa 37.5%, #6cf7af 43.75%, #3cf2b5 50%, #00edbc 56.25%, #00e8c6 62.5%, #00e4d0 68.75%, #00dfdc 75%, #00dbe9 81.25%, #00d7f5 87.5%, #00d3ff 93.75%, #00d0ff 100%);
+  background-image: radial-gradient(
+    circle at 50% -20.71%,
+    #ffffa1 0,
+    #f5ffa0 6.25%,
+    #e4ffa0 12.5%,
+    #d2ffa1 18.75%,
+    #bdffa3 25%,
+    #a7fda6 31.25%,
+    #8cfaaa 37.5%,
+    #6cf7af 43.75%,
+    #3cf2b5 50%,
+    #00edbc 56.25%,
+    #00e8c6 62.5%,
+    #00e4d0 68.75%,
+    #00dfdc 75%,
+    #00dbe9 81.25%,
+    #00d7f5 87.5%,
+    #00d3ff 93.75%,
+    #00d0ff 100%
+  );
 }
 
-.card-img-top2{
+.card-img-top2 {
   width: 300px;
   height: 400px;
 }
 
-.footer{
+.footer {
   margin-top: 30px;
 }
 
-.btn{
-   margin-top: 10px;
+.btn {
+  margin-top: 10px;
 }
 
-.navbar-toggler-icon{
-  background-color:  palegreen;
+.navbar-toggler-icon {
+  background-color: palegreen;
 }
 
-.cardPago{
+.cardPago {
   margin-top: 150px;
-  background-image: radial-gradient(circle at 50% -20.71%, #ffffa1 0, #f5ffa0 6.25%, #e4ffa0 12.5%, #d2ffa1 18.75%, #bdffa3 25%, #a7fda6 31.25%, #8cfaaa 37.5%, #6cf7af 43.75%, #3cf2b5 50%, #00edbc 56.25%, #00e8c6 62.5%, #00e4d0 68.75%, #00dfdc 75%, #00dbe9 81.25%, #00d7f5 87.5%, #00d3ff 93.75%, #00d0ff 100%);
+  background-image: radial-gradient(
+    circle at 50% -20.71%,
+    #ffffa1 0,
+    #f5ffa0 6.25%,
+    #e4ffa0 12.5%,
+    #d2ffa1 18.75%,
+    #bdffa3 25%,
+    #a7fda6 31.25%,
+    #8cfaaa 37.5%,
+    #6cf7af 43.75%,
+    #3cf2b5 50%,
+    #00edbc 56.25%,
+    #00e8c6 62.5%,
+    #00e4d0 68.75%,
+    #00dfdc 75%,
+    #00dbe9 81.25%,
+    #00d7f5 87.5%,
+    #00d3ff 93.75%,
+    #00d0ff 100%
+  );
 }
-
