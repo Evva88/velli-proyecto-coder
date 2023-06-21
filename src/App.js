@@ -9,6 +9,7 @@ import CartContextProvider from "./Componentes/Contexto/CartContext";
 import Error404 from "./Componentes/Error404";
 import Home from "./Componentes/Home";
 import Cart from "./Componentes/Cart";
+import Checkout from "./Componentes/Checkout"
 
 function App() {
   return (
@@ -18,11 +19,13 @@ function App() {
           <Header />
           <NavBar />
           <Routes>
+            <Route path={"/"} element={<Home />} />
             <Route path={"/home"} element={<Home />} />
             <Route path={"/productos"} element={<ItemListContainer />} />
             <Route path={"/category/:id"} element={<ItemListContainer />} />
             <Route path={"/item/:id"} element={<ItemDetailContainer />} />
-            <Route path={"/Cart"} element={<Cart />} />
+            <Route path={"/cart"} element={<Cart />} />
+            <Route path={"/checkout"} element={<Checkout />} />
             <Route path={"/*"} element={<Error404 />} />
           </Routes>
           <Footer />

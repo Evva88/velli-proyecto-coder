@@ -5,7 +5,9 @@
 }
 
 body {
-  background-color: #e4fcca;
+  background-image: url("/public/img/fondo3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .header {

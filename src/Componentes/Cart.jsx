@@ -44,8 +44,8 @@ const Cart = () => {
               {cart.map((item) => (
                 <tr key={item.id}>
                   <td>
-                    <img src={item.img} alt={item.titulo} width={80} /></td>
-                  <td>{item.titulo}</td><td>
+                    <img src={item.img} alt={item.nombre} width={80} /></td>
+                  <td>{item.nombre}</td><td>
                     {item.quantity} x ${item.precio}
                   </td>
                   <td className="text-center">
