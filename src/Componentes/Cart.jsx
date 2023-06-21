@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { CartContext } from "./Contexto/CartContext";
-import { Link } from "react-router-dom";
 import trash from "./trash.svg";
+import { Link } from "react-router-dom";
 
 const Cart = () => {
   const { cart, totalProductos, sumProductos, removeItem, clear } =
@@ -63,7 +63,6 @@ const Cart = () => {
                 <td colSpan={3} className="text-end">
                   Total a Pagar</td>
                 <td className="text-center">${sumProductos()}</td>
-                
                   <td className="align-middle text-end"><Link to={"/Checkout"} className="btn btn-light">Finalizar Compra</Link></td>
                 
               </tr>
