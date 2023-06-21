@@ -6,7 +6,7 @@ const Item = ({ item }) => {
       <div className="col-md-4 my-3">
         <div className="card" style={{ width: "20rem" }}>
           <Link
-            to={"/item/" + item.idx}
+            to={"/item/" + item.id}
             className="text-dark text-decoration-none"
           >
             <img src={item.img} className="card-img-top2" alt={item.nombre} />

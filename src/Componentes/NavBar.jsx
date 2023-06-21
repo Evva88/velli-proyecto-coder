@@ -43,13 +43,13 @@ const NavBar = () => {
                       <NavLink
                         className="nav-link active"
                         aria-current="page"
-                        to={"/categoy/Accion"}
+                        to={"/category/Accion"}
                       >
                         Accion
                       </NavLink>
                     </li>
                     <li className="nav-item">
-                      <NavLink className="nav-link" to={"/categoy/Comedia"}>
+                      <NavLink className="nav-link" to={"/category/Comedia"}>
                         Comedia
                       </NavLink>
                     </li>
